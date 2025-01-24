@@ -1,4 +1,4 @@
-# Hotel-Management-System-C-Ds-Project-
+# Hotel-Management-System-C++-Ds-Project-
 
 Designed and implemented a Hotel Management System using the following data structures in c++ Language:
 1.	Tree Data Structure :
